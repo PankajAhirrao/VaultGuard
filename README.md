@@ -269,10 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@Dev4057](https://github.com/Dev4057)
-- **Twitter**: [@Dev_9007](https://twitter.com/Dev_9007)
-- **Discord**: devang6061
-
+- **GitHub**: [@PankajAhirrao](https://github.com/PankajAhirrao)
 ---
 
 ## ⚠️ Disclaimer
